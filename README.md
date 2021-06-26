@@ -3,7 +3,9 @@
 Back end infrastructure for a social media app. Link to repo is [here](https://github.com/japankid-code/social-API/).
 
 ![Unlicense badge](https://img.shields.io/badge/license-Unlicense-blue?style=for-the-badge)
-![language badge](https://img.shields.io/github/languages/top/pizza-hunt/?style=for-the-badge)
+
+<!-- ![language badge](https://img.shields.io/github/languages/top/japankid-code/social-API/?style=for-the-badge) -->
+
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
 
 ## Table of Contents
